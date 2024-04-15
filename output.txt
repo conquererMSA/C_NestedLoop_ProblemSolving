@@ -1,4 +1,2 @@
-A-599 Wrong
-A-1200 Wrong
-A-4344 Wrong
-A-8756 Correct
+Max- -1
+Min- -6
