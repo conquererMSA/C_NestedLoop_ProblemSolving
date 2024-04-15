@@ -1,5 +1,4 @@
-Even-5
-Odd-4
-Positive-4
-Negative-2
-Zero-3
+A-599 Wrong
+A-1200 Wrong
+A-4344 Wrong
+A-8756 Correct
